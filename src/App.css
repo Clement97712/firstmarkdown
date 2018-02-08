@@ -1,0 +1,15 @@
+.texte{
+  resize: none;
+  border: 1px solid;
+}
+.App{
+    display: flex;   
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.box{
+    border:1px solid;
+    width: 500px;
+    height: auto;
+}
