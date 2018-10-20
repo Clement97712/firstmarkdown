@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-
-let marked =require("marked");
+import marked from 'marked';
+//let marked =require("marked");
 
 class App extends Component {
 
